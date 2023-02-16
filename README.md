@@ -1,4 +1,4 @@
-## DEEP LEARNING WITH FAStAI
+## DEEP LEARNING WITH FASTAI
 
 # Introduction:
 This document provides an overview of the notes taken after completing the "Fast.ai Deep Learning for Coders" course and reading the book "Deep Learning for Coders with PyTorch and FastAI." The course and book provide a comprehensive introduction to deep learning and teach practical techniques for building and training deep neural networks.
